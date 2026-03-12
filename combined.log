@@ -1,0 +1,15 @@
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven_test","timestamp":"2026-03-12T00:35:27.486Z"}
+{"level":"info","message":"MongoDB disconnected","timestamp":"2026-03-12T00:35:28.711Z"}
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven_test","timestamp":"2026-03-12T00:35:30.036Z"}
+{"level":"info","message":"MongoDB disconnected","timestamp":"2026-03-12T00:35:30.664Z"}
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven_test","timestamp":"2026-03-12T00:35:31.774Z"}
+{"level":"info","message":"MongoDB disconnected","timestamp":"2026-03-12T00:35:32.497Z"}
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven_test","timestamp":"2026-03-12T00:35:33.718Z"}
+{"level":"info","message":"MongoDB disconnected","timestamp":"2026-03-12T00:35:34.285Z"}
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven_test","timestamp":"2026-03-12T00:35:35.228Z"}
+{"level":"info","message":"MongoDB disconnected","timestamp":"2026-03-12T00:35:35.822Z"}
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven_test","timestamp":"2026-03-12T00:35:36.680Z"}
+{"level":"info","message":"MongoDB disconnected","timestamp":"2026-03-12T00:35:37.265Z"}
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven_test","timestamp":"2026-03-12T00:35:38.175Z"}
+{"level":"info","message":"MongoDB disconnected","timestamp":"2026-03-12T00:35:38.775Z"}
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven","timestamp":"2026-03-12T00:36:20.420Z"}
