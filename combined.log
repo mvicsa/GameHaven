@@ -13,3 +13,4 @@
 {"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven_test","timestamp":"2026-03-12T00:35:38.175Z"}
 {"level":"info","message":"MongoDB disconnected","timestamp":"2026-03-12T00:35:38.775Z"}
 {"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven","timestamp":"2026-03-12T00:36:20.420Z"}
+{"level":"info","message":"MongoDB connected to mongodb://localhost:27017/gamehaven","timestamp":"2026-03-12T00:39:20.077Z"}
