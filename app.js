@@ -2,8 +2,6 @@ const express = require('express');
 const morgan = require('morgan');
 const swaggerUi = require('swagger-ui-express');
 const yaml = require('yamljs');
-const { connectDB } = require('./src/config/db');
-const env = require('./src/config/env');
 const errorMiddleware = require('./src/middlewares/error.middleware');
 const loggerMiddleware = require('./src/middlewares/logger.middleware');
 const authRoutes = require('./src/routes/auth.routes');
@@ -20,7 +18,6 @@ const app = express();
 const swaggerDocument = yaml.load('./swagger.yaml');
 
 // Middleware
-app.use(express.json()); 
 app.use(express.json());
 app.use(morgan('combined'));
 app.use(loggerMiddleware);
